@@ -19,6 +19,24 @@ I'm Niklas Dobberstein, a PhD student in applied machine learning for chemistry 
       Reaction outcome prediction from positive-only data.
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nkls-ai/dftstream"><img width="400" alt="DFTStream tracking a live ORCA run" src="https://raw.githubusercontent.com/nkls-ai/dftstream/main/docs/images/live-run.gif"></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Fraunhofer-SCAI/llamol"><img height="250" alt="Llamol, a llama in a lab coat among molecules" src="https://raw.githubusercontent.com/Fraunhofer-SCAI/llamol/main/assets/llamol.png"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/nkls-ai/dftstream"><b>DFTStream</b></a><br>
+      Web UI and experiment tracker for ORCA quantum chemistry.
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Fraunhofer-SCAI/llamol"><b>Llamol</b></a><br>
+      Multi-conditional generative transformer for molecules.
+    </td>
+  </tr>
 </table>
 
-Also: [DFTStream](https://github.com/nkls-ai/dftstream), [Llamol](https://github.com/Fraunhofer-SCAI/llamol), and [Materium](https://doi.org/10.1016/j.commatsci.2026.114980).
+Also: [Materium](https://doi.org/10.1016/j.commatsci.2026.114980), an autoregressive transformer for crystal structures.
